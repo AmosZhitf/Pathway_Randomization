@@ -1,0 +1,7 @@
+name: pathway_randomization_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.9
+  - numpy=1.23.5

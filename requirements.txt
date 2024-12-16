@@ -1,0 +1,6 @@
+# Requirements for the project
+# Python version
+python==3.10.9
+
+# NumPy version
+numpy==1.23.5
