@@ -58,6 +58,7 @@ Clone the repository and install dependencies:
 1. Clone the repo
 
 ```git clone https://github.com/compbiomed-unito/Pathway_Randomization.git```
+
 ```cd Pathway_Randomization```
 
 
