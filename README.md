@@ -5,7 +5,7 @@
 ### Overview
 This repository provides tools and resources for pathway randomization in neural networks for omics data analysis. It includes a schematic representation of pathway integration approaches and their randomization, as shown below:
 
-![Schematic Workflow](Figures/Workflow.jpg)
+![Schematic Workflow](Figures/Workflow.png)
 
 ### Repository Structure
 - **`Data/`**: Contains a dummy example matrix for use with the `Usage_Guide.ipynb` tutorial.
